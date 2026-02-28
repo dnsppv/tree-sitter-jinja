@@ -1,0 +1,73 @@
+[
+  {
+    "type": "jinja_comment",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "jinja_expression",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "jinja_statement",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "source",
+    "named": true,
+    "root": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "jinja_comment",
+          "named": true
+        },
+        {
+          "type": "jinja_expression",
+          "named": true
+        },
+        {
+          "type": "jinja_statement",
+          "named": true
+        },
+        {
+          "type": "text",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "#}",
+    "named": false
+  },
+  {
+    "type": "%}",
+    "named": false
+  },
+  {
+    "type": "text",
+    "named": true
+  },
+  {
+    "type": "{#",
+    "named": false
+  },
+  {
+    "type": "{%",
+    "named": false
+  },
+  {
+    "type": "{{",
+    "named": false
+  },
+  {
+    "type": "}}",
+    "named": false
+  }
+]

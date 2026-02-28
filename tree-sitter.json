@@ -1,0 +1,19 @@
+{
+  "name": "jinja",
+  "version": "0.1.0",
+  "description": "Jinja2 templating language grammar",
+  "author": "Denis Popov",
+  "license": "MIT",
+  "keywords": ["parser", "jinja", "templating"],
+  "dependencies": {},
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.6"
+  },
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "Jinja2 templating language grammar",
+    "authors": ["Denis Popov"],
+    "links": {}
+  }
+}
